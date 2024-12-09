@@ -1,0 +1,16 @@
+[
+  {
+    "id": "kauvrj64nss40c2849ejc6",
+    "task": "Learn Node.js",
+    "dueDate": "2024-12-15",
+    "completed": true,
+    "status": "pending"
+  },
+  {
+    "id": "so731oxhwikvzd4f81dzu",
+    "task": "Finish project",
+    "dueDate": "2024-12-20",
+    "completed": false,
+    "status": "pending"
+  }
+]
